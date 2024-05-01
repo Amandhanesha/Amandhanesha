@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Amandhanesha
+- 👀 I’m interested in coding, problem-solving, and exploring new technologies.
+- 🌱 I’m currently learning data structures and algorithms, as well as web development.
+- 💞️ I’m looking to collaborate on open-source projects and coding challenges, particularly in the startup space.
+- 📫 How to reach me: Feel free to reach out to me via email at [work.amandhanesha@gmail.com](mailto:work.amandhanesha@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aman-dhanesha-a05407299/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring nature and photography in my free time!
